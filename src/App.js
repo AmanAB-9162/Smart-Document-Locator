@@ -118,7 +118,7 @@ function App() {
                </ul>
            </div>
 
-           <div style ={{marginTop:"100px"}}>Made with  ❤️ ; by   <a  id='aman' href='https://www.linkedin.com/in/aman-bhagat-350a19256/' target="_blank">Aman</a></div>
+           <div style ={{marginTop:"100px"}}>Made with  ❤️ by <a  id='aman' href='https://www.linkedin.com/in/aman-bhagat-350a19256/' target="_blank">Aman</a></div>
         {/* <input type="file" onChange={(event) => test(event) }></input>
         */}
         {/* <a href={url} download id='test'>Click to dowwnload</a> */}
