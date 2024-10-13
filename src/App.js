@@ -118,7 +118,7 @@ function App() {
                </ul>
            </div>
 
-           <div style ={{marginTop:"100px"}}>Made with &#9829; by   <a  id='nitish' href='https://www.linkedin.com/in/nitish-kumar-gupta-3250bb214/' target="_blank">Nitish</a> , <a id='himanshu' href='https://www.linkedin.com/in/himanshu-ranjan-542857190/' target="_blank" >Himanshu</a> and <a id='yash'  href='https://www.linkedin.com/in/yash-kr/' target="_blank"> Yash</a></div>
+           <div style ={{marginTop:"100px"}}>Made with &#9829; by   <a  id='aman' href='https://www.linkedin.com/in/aman-bhagat-350a19256/' target="_blank">Aman</a></div>
         {/* <input type="file" onChange={(event) => test(event) }></input>
         */}
         {/* <a href={url} download id='test'>Click to dowwnload</a> */}
